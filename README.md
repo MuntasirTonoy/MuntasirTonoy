@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE (Centered with aspect ratio fix) -->
 <p align="center">
-  <img src="https://i.imgur.com/nD1PSoH.png" alt="Banner" width="100%" height="250px" style="object-fit: cover;" />
+  <img src="[https://i.imgur.com/nD1PSoH.png](https://shorturl.at/jAaAs)" alt="Banner" width="100%" height="250px" style="object-fit: cover;" />
 </p>
 
 <!-- NAME AND TITLE -->
