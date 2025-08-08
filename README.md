@@ -70,4 +70,4 @@ Currently exploring new technologies and expanding my development skillset.
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/muntasirtonoy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
