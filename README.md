@@ -4,70 +4,74 @@
 </p>
 
 <!-- NAME AND TITLE -->
-<h1 align="center">Hi 👋, I'm MD Muntasir Mahmud</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#2f80ed;">MD Muntasir Mahmud</span></h1>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Firebase+%7C+Tailwind+%7C+Next.js;Clean+Code+%7C+Performance+%7C+Security;Let's+build+something+great!" alt="Typing SVG" />
 </p>
 
-<!-- ABOUT ME -->
+---
+
 ### 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer from Bangladesh 🇧🇩, experienced in building full-fledged web applications with modern technologies.  
-I enjoy creating clean UIs and efficient backend systems.  
-Always excited to solve real-world problems and contribute to meaningful projects.  
-Currently exploring new technologies and expanding my development skillset.
+I'm a passionate **Full Stack Developer** from **Bangladesh 🇧🇩**, with experience in building full-fledged web applications using modern technologies.  
+I love clean UI, efficient backend logic, and solving real-world problems.  
+Currently learning and growing in the world of full-stack development.
 
-<!-- CURRENT ACTIVITIES -->
-### 📌 Currently Working On
+---
 
-- 🚀 Exploring **Next.js** for full-stack projects  
-- 🌍 Building a **Tourism Website** as a portfolio project  
-- 🔒 Learning **Authentication & Security Best Practices**  
-- 💼 Open to **collaborations** and **freelance opportunities**
+### 🚀 Currently Working On
 
-<!-- SKILLS -->
+- 🔥 Exploring **Next.js** for advanced full-stack projects  
+- 🏝️ Building a **Tourism Website** for my portfolio  
+- 🛡️ Learning **Authentication & Security Best Practices**  
+- 🤝 Open to **collaborations** and **freelance opportunities**
+
+---
+
 ### 💡 My Tech Toolbox
 
 #### 🖥️ Frontend
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #e6f0ff; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #fffbe6; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #ffe6e6; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #e6f2ff; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />       
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #e6fffa; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" />
 </p>
 
 #### 🛠️ Backend & Database
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #eaffea; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #f0f0f0; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #f0fff0; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40px" style="margin: 8px; padding: 10px; background: #fff3e6; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" />
 </p>
 
 #### ⚙️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #ffe6e6; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #f0f0f0; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #e6f0ff; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #e6ffff; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #f9f9f9; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #fff0e6; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40px" style="margin: 8px; padding: 10px; background: #fef6ff; border-radius: 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" />
 </p>
 
+---
 
-<!-- SOCIAL LINKS -->
 ### 🌐 Connect with Me
 
-<p>
+<p align="center">
   <a href="mailto:mdmuntasir.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/muntasirtonoy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/muntasirtonoy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
