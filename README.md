@@ -81,13 +81,10 @@ I love solving real-world problems, writing clean code, and continuously learnin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muntasirtonoy&show_icons=true&theme=radical" width="48%" style="margin-right: 2%;" />
+    <img src="https://streak-stats.demolab.com?user=muntasirtonoy&theme=radical" width="48%" />
 </div>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=muntasirtonoy&theme=radical" width="48%" />
-</div>
 
-
-<br/>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirtonoy&layout=compact&theme=radical" width="48%" />
