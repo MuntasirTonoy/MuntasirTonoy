@@ -1,15 +1,14 @@
 <!-- BANNER IMAGE -->
-<p align="center">
+<p align="left">
   <img src="https://i.ibb.co.com/6c31b2dV/Picsart-25-08-02-02-30-12-152.jpg" alt="Banner" width="100%" style="object-fit: cover; height: 250px;" />
 </p>
 
 <!-- NAME AND TITLE -->
 <h1 align="center">Hi 👋, I'm <span style="color:#2f80ed;">MD Muntasir Mahmud</span></h1>
-<h3 align="center">Full Stack Web Developer | MERN Stack Enthusiast</h3>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION (Animated Role Title) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Frontend+%7C+Backend+%7C+Security+Lover;React+%7C+Node+%7C+MongoDB+%7C+Tailwind+%7C+Next.js;Clean+Code+%7C+Performance+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+Expert;MERN+Stack+Developer" alt="Typing Animation" />
 </p>
 
 ---
@@ -80,14 +79,15 @@ I love solving real-world problems, writing clean code, and continuously learnin
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muntasirtonoy&show_icons=true&theme=radical" width="48%" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muntasirtonoy&show_icons=true&theme=radical" width="48%" style="margin-right: 2%;" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=muntasirtonoy&theme=radical" width="48%" />
-</p>
+</div>
 
-<p align="center">
+<br/>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirtonoy&layout=compact&theme=radical" width="48%" />
-</p>
+</div>
 
 ---
-
