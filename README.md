@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://i.imgur.com/nD1PSoH.png" alt="Banner" width="100%" />
+  <img src="[https://i.imgur.com/nD1PSoH.png](https://i.ibb.co.com/PGJ67Mdw/Chat-GPT-Image-Aug-4-2025-11-37-41-PM.png)" alt="Banner" width="100%" />
 </p>
 
 <!-- NAME AND TITLE -->
