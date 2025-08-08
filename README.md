@@ -32,7 +32,7 @@ I love solving real-world problems, writing clean code, and continuously learnin
 ### 💡 My Tech Toolbox
 
 #### 🖥️ Frontend
-<p align="center">
+<p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -41,7 +41,7 @@ I love solving real-world problems, writing clean code, and continuously learnin
 </p>
 
 #### 🛠️ Backend & Database
-<p align="center">
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" />
@@ -49,7 +49,7 @@ I love solving real-world problems, writing clean code, and continuously learnin
 </p>
 
 #### ⚙️ Tools & Platforms
-<p align="center">
+<p >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
@@ -63,7 +63,7 @@ I love solving real-world problems, writing clean code, and continuously learnin
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p >
   <a href="mailto:mdmuntasir.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -81,6 +81,8 @@ I love solving real-world problems, writing clean code, and continuously learnin
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muntasirtonoy&show_icons=true&theme=radical" width="48%" style="margin-right: 2%;" />
+</div>
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=muntasirtonoy&theme=radical" width="48%" />
 </div>
 
