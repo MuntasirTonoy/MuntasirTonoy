@@ -1,12 +1,12 @@
 <!-- BANNER IMAGE -->
 <p align="left">
-  <img src="https://i.ibb.co.com/6c31b2dV/Picsart-25-08-02-02-30-12-152.jpg" alt="Banner" width="100%" style="object-fit: cover; height: 230px;" />
+  <img src="https://i.ibb.co/6c31b2dV/Picsart-25-08-02-02-30-12-152.jpg" alt="Banner" width="100%" style="object-fit: cover; height: 230px;" />
 </p>
 
 <!-- NAME AND TITLE -->
 <h1 align="center">Hi 👋, I'm <span style="color:#2f80ed;">MD Muntasir Mahmud</span></h1>
 
-<!-- TYPING ANIMATION (Animated Role Title) -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Frontend+Expert;MERN+Stack+Developer" alt="Typing Animation" />
 </p>
@@ -32,7 +32,7 @@ I love solving real-world problems, writing clean code, and continuously learnin
 ### 💡 My Tech Toolbox
 
 #### 🖥️ Frontend
-<p >
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -49,7 +49,7 @@ I love solving real-world problems, writing clean code, and continuously learnin
 </p>
 
 #### ⚙️ Tools & Platforms
-<p >
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" />
@@ -63,7 +63,7 @@ I love solving real-world problems, writing clean code, and continuously learnin
 
 ### 🌐 Connect with Me
 
-<p >
+<p>
   <a href="mailto:mdmuntasir.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -79,17 +79,13 @@ I love solving real-world problems, writing clean code, and continuously learnin
 
 ### 📊 GitHub Stats
 
+<!-- Overall stats + Streak -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muntasirtonoy&show_icons=true&theme=radical" width="48%" style="margin-right: 2%;" />
-<div align="center"> </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=muntasirtonoy&show_icons=true&theme=radical" width="48%" />
   <img src="https://streak-stats.demolab.com?user=muntasirtonoy&theme=radical" width="48%" />
 </div>
 
-<div align="center">
-
-
+<!-- Top Languages -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirtonoy&layout=compact&theme=radical" width="48%" />
 </div>
-
----
