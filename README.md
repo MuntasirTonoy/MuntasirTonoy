@@ -54,7 +54,9 @@ Currently exploring new technologies and expanding my development skillset.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40px" style="margin: 5px;" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original.svg" width="40px" style="margin: 5px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40px" style="margin: 5px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px" style="margin: 5px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40px" style="margin: 5px;" />\
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40px" style="margin: 5px;" />\
+    
 </p>
 
 <!-- SOCIAL LINKS -->
