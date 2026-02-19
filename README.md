@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <p align="center">
-  <img src="https://i.ibb.co.com/zHSPnX1G/Gemini-Generated-Image-p57k7kp57k7kp57k.png" alt="Banner" width="100%" />
+<img src="https://i.ibb.co/zHSPnX1G/Gemini-Generated-Image-p57k7kp57k7kp57k.png" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Muntasir Mahmud</h1>
