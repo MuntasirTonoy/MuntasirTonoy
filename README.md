@@ -6,7 +6,7 @@
 <h1 align="center">Hi, I'm MD Muntasir Mahmud Tonoy</h1>
 
 <p align="center">
-  Full Stack Developer • MERN Stack Developer • Frontend Specialist
+ A passionate Full Stack Developer skilled in building robust, scalable, and user-friendly web applications.
 </p>
 
 <p align="center">
