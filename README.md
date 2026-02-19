@@ -29,11 +29,14 @@
 
 ---
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express,mongodb,firebase,git,github,vercel,netlify,postman,figma" />
-</p>
+| Category | Skills |
+|----------|-------|
+| 🎨 Frontend | React, JavaScript, HTML, CSS, Tailwind, Next.js |
+| ⚙️ Backend | Node.js, Express |
+| 🗄️ Database | MongoDB, Firebase |
+| 🧩 Additional | Git, GitHub, Vercel, Netlify, Postman, Figma |
 
 ---
 
