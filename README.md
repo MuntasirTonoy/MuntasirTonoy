@@ -1,6 +1,6 @@
 <!-- BANNER IMAGE -->
 <p align="left">
-  <img src="https://i.ibb.co/6c31b2dV/Picsart-25-08-02-02-30-12-152.jpg" alt="Banner" width="100%" style="object-fit: cover; height: 230px;" />
+  <img src="https://drive.google.com/file/d/19xwfJCHLYh5HgbYvU14Zot8Ejq4eGV7Q/view?usp=sharing" alt="Banner" width="100%" style="object-fit: cover; height: 230px;" />
 </p>
 
 <!-- NAME AND TITLE -->
