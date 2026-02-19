@@ -31,13 +31,26 @@
 
 ## 🧠 Tech Stack
 
-| Category | Skills |
-|----------|-------|
-| 🎨 Frontend | React, JavaScript, HTML, CSS, Tailwind, Next.js |
-| ⚙️ Backend | Node.js, Express |
-| 🗄️ Database | MongoDB, Firebase |
-| 🧩 Additional | Git, GitHub, Vercel, Netlify, Postman, Figma |
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nextjs" />
+</p>
 
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+### 🧩 Additional Skills & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,figma,vscode" />
+</p>
+|
 ---
 
 ### 🌐 Connect With Me
