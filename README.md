@@ -29,7 +29,7 @@
 
 ### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mongoose" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose" />
 </p>
 
 ### 🧩 Additional Skills & Tools
@@ -41,7 +41,7 @@
 
 ## 🌐 Contact & Portfolio
 
-<p align="center">
+<p>
 
 <a href="https://muntasir-mahmud.web.app">
 <img src="https://img.shields.io/badge/🌍 Portfolio-000?style=for-the-badge"/>
@@ -66,16 +66,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=muntasirtonoy&show_icons=true&theme=radical" width="48%" />
-<img src="https://streak-stats.demolab.com?user=muntasirtonoy&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=muntasirtonoy&show_icons=true&theme=radical&cache_seconds=1800" width="48%" />
+<img src="https://streak-stats.demolab.com?user=muntasirtonoy&theme=radical&cache_seconds=1800" width="48%" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirtonoy&layout=compact&theme=radical" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muntasirtonoy&layout=compact&theme=radical&cache_seconds=1800" width="48%" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muntasirtonoy&label=Profile%20views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=muntasirtonoy&label=Profile%20views&color=blue&style=flat" />
 </p>
