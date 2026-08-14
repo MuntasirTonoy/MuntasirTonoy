@@ -37,9 +37,12 @@
 </p>
 
 ### 🔐 Authentication & Security
-- **JWT (JSON Web Tokens)**
-- **Passport.js**
-- **OAuth 2.0 / Firebase Auth**
+<p>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Passport.js-34E27A?style=for-the-badge&logo=passport&logoColor=white" alt="Passport.js" />
+  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Auth" />
+  <img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="OAuth 2.0" />
+</p>
 
 ### 🧩 DevOps, Tools & Services
 <p>
